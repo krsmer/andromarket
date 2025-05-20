@@ -1,7 +1,7 @@
 Project Title: AndroMarket
 
 Project Description:
-Andromeda Explorer is a Web3 application that visualizes blockchain data and provides a user-friendly exploration interface. Its purpose is to enable users to easily analyze transactions, smart contracts, and NFT collections on the Andromeda network.
+AndroMarket is a Web3 application that visualizes blockchain data and provides a user-friendly exploration interface. Its purpose is to enable users to easily analyze transactions, smart contracts, and NFT collections on the Andromeda network.
 
 Key Features
 ✅ Blockchain Data Analysis: Real-time viewing of recent transactions and blocks on the Andromeda network.
