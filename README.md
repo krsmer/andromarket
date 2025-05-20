@@ -13,6 +13,13 @@ Additional Features
 🔹 Save Favorite NFTs: Users can save their favorite NFTs in local storage.
 🔹 Gas Fee Estimation: Pre-calculation of transaction costs.
 
+Future Scope
+🚀 Multi-Chain Support: Integration with other networks like Ethereum and Solana.
+🚀 Token Swap Module: Connection with DEX aggregator APIs.
+🚀 User Profiles: Personalized dashboards with Web3 authentication.
+
+
+
 Project Setup / Installation Guide
 Requirements: Node.js v18+ and npm/yarn.
 
