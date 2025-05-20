@@ -42,7 +42,7 @@ Personalized dashboards with Web3 authentication support.
 
 📦 Clone the Repository
 
-git clone https://github.com/krsmer/andromeda_project.git
+git clone https://github.com/krsmer/andromarket.git
 cd andromeda_project
 
 📥 Install Dependencies
